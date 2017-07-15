@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="GanTryModuleTest.GantryCommandTest.CreateGetInfoCommand" /><Add Test="GanTryModuleTest.GantryCommandTest.CreateGetStatusCommand" /><Add Test="GanTryModuleTest.GantryCommandTest.set_zero_absolute_X" /></Playlist>
